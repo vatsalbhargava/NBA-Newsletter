@@ -1,3 +1,5 @@
+NBA Newsletter was a project developed for CS 338 @ NU. The app utilized Open AI's API and the NBA API to analyze past sports bets and give users an explanation as to why a certain outcome occured.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
